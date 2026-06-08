@@ -45,10 +45,15 @@ Il punto di forza di questo sviluppo indipendente risiede nell'utilizzo del para
 
 ## 📦 Installazione ed Esecuzione
 
-### Prerequisiti
-Assicurati di avere un compilatore C++ installato sul tuo sistema (es. `g++`).
+Puoi avviare ed eseguire il software in due modalità differenti: tramite l'eseguibile precompilato (metodo rapido) o compilando direttamente i file sorgente.
 
-### Procedura da Terminale
+### Opzione 1: Esecuzione Rapida (File .exe)
+Per motivi di test rapido o per chi non possiede un compilatore installato, è possibile utilizzare direttamente l'eseguibile precompilato presente nella repository (valido per sistemi Windows):
+1. Scarica il file `scacchiera_di_Polibio_mod.exe` sul tuo computer.
+2. Fai doppio clic sul file per avviare istantaneamente l'interfaccia a riga di comando del programma.
+
+### Opzione 2: Compilazione da Terminale (File .cpp)
+Se desideri compilare il codice sorgente autonomamente, assicurati di avere un compilatore C++ installato (es. `g++`) e segui questi passaggi:
 1. Clona la repository sul tuo computer locale:
    ```bash
    git clone https://github.com/Suleman-R/Scacchiera-di-Polibio-Modificata.git
