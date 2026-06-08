@@ -38,6 +38,7 @@ Il punto di forza di questo sviluppo indipendente risiede nell'utilizzo del para
 * **Linguaggio di programmazione:** C++ (100%)
 * **Paradigma:** Programmazione Orientata agli Oggetti (OOP)
 * **Interfaccia Utente:** CLI (Interfaccia a riga di comando interattiva)
+* **Compilatore Online Consigliato:** GDB Online (semplice e intuitivo)
 * **Compilatore Consigliato:** GCC / Clang (compatibile con standard C++11 o successivi)
 
 ---
@@ -68,4 +69,4 @@ Assicurati di avere un compilatore C++ installato sul tuo sistema (es. `g++`).
 ---
 
 ## 🧑‍💻 Autore
-* **Suleman-R** - *Sviluppatore Unico* - Progetto scolastico individuale per il quarto anno delle superiori.
+* **Suleman-R** - *Sviluppatore Unico* - Progetto scolastico individuale.
